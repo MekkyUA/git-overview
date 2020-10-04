@@ -1,2 +1,2 @@
 # git-overview
-GitHub Demo!
+GitHub Demo
